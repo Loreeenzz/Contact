@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="avatar_colors">
+        <item>#FF4081</item> <!-- Pink -->
+        <item>#7C4DFF</item> <!-- Deep Purple -->
+        <item>#536DFE</item> <!-- Indigo -->
+        <item>#448AFF</item> <!-- Blue -->
+        <item>#40C4FF</item> <!-- Light Blue -->
+        <item>#64FFDA</item> <!-- Teal -->
+        <item>#69F0AE</item> <!-- Green -->
+        <item>#FFD740</item> <!-- Amber -->
+        <item>#FFAB40</item> <!-- Orange -->
+        <item>#FF6E40</item> <!-- Deep Orange -->
+    </array>
+</resources>
